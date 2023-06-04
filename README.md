@@ -1,14 +1,15 @@
 # CPCS324_PROJECT_PART1
 Objective:
+
 • Provide an opportunity to work with complex data structures 
 
 • Develop advanced programming skills. 
 
 Learning Outcomes:
+
 • CLO #8: Compare select (covered) algorithms for the same problem. 
 
-• CLO #9: Write code to implement select (covered) greedy algorithm(s) in programming 
-language and environment of choice.
+• CLO #9: Write code to implement select (covered) greedy algorithm(s) in programming language and environment of choice.
 
 Given the following problem: 
 “.. a problem like phone network design. You have a business with several offices; 
